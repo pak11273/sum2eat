@@ -1,6 +1,6 @@
-import React from 'react';
-import sum2eat from './public/assets/images/sum2eat-cover.jpg'
-import './App.css';
+import React from "react";
+import sum2eat from "./public/assets/images/sum2eat-cover.jpg";
+import "./App.css";
 
 const App: React.FC = () => {
   return (
@@ -21,6 +21,6 @@ const App: React.FC = () => {
       </header>
     </div>
   );
-}
+};
 
 export default App;
